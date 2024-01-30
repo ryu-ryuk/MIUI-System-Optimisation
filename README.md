@@ -1,4 +1,4 @@
-# -MIUI-System-Optimisation
+# MIUI-System-Optimisation
 I'm taking you through the steps on how to turn off MIUI/HyperOS System Optimisation OFF
 
 # Pros & Cons: 
@@ -10,9 +10,9 @@ I'm taking you through the steps on how to turn off MIUI/HyperOS System Optimisa
 
 2. Enter Developer settings (by navigating to Additional settings → Developer Options.)
 
-3. Scroll down until you see "RESET TO DEFAULT VALUES" in the Autofill section.
+3. Scroll down until you see "RESET TO DEFAULT VALUES" in the Autofill section and tap it multiple times.
 
-4. Tap it multiple times, and You'll see "SYSTEM OPTIMISATION"
+4. After a few clicks, You'll see "SYSTEM OPTIMISATION" (screenshot for reference)
 
 ![1000013508](https://github.com/ryu-ryuk/-MIUI-System-Optimisation/assets/114721240/061268d8-7242-4a7f-be35-dda80f7c2247)
 
