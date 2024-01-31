@@ -1,4 +1,4 @@
-# MIUI-System-Optimisation
+# MIUI/HyperOS-System-Optimisation
 Taking you through the steps on how to turn off MIUI/HyperOS System Optimisation OFF
 
 # Pros & Cons: 
