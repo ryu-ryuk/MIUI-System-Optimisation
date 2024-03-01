@@ -14,6 +14,8 @@ Taking you through the steps on how to turn off MIUI/HyperOS System Optimisation
 
 4. After a few clicks, You'll see "SYSTEM OPTIMISATION" (screenshot for reference)
 
+5. Reboot. 
+
 ![1000013508](https://github.com/ryu-ryuk/-MIUI-System-Optimisation/assets/114721240/061268d8-7242-4a7f-be35-dda80f7c2247)
 
    
