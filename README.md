@@ -24,6 +24,8 @@ Taking you through the steps on how to turn OFF MIUI/HyperOS System Optimisation
  
 ### Pros:
 • Maintains consistent UI effects like blur and animations.
+
+• If you are sharing your location with your friends or family, this will disable the Privacy indicator in status bar. 
  
 ### Cons:
 • Disabling can cause visual glitches and less polished UI.
