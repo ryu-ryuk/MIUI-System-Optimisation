@@ -2,7 +2,37 @@
 Taking you through the steps on how to turn off MIUI/HyperOS System Optimisation OFF
 
 # Pros & Cons: 
- (soon) 
+ Performance
+ Pros:
+ Enhances system responsiveness and smoothness.
+ Improves RAM and CPU management for better multitasking.
+ 
+ Cons:
+ Inconsistent performance when disabled, leading to potential lag.
+ 
+ Battery Life
+ 
+ Pros:
+ Optimizes background processes to extend battery life.
+ 
+ Cons:
+ Disabling may reduce battery efficiency. 
+
+ UI & Visuals
+ 
+ Pros:
+ Maintains consistent UI effects like blur and animations.
+ 
+ Cons:
+ Disabling can cause visual glitches and less polished UI.
+ 
+ Compatibility
+ 
+ Pros:
+ Ensures compatibility with apps designed for MIUI's optimized environment.
+ 
+ Cons:
+ Disabling might lead to app crashes or unexpected behavior.
 
 # Steps—
 1. Enabling Developer options.
