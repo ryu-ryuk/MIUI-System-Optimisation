@@ -1,11 +1,12 @@
 # MIUI/HyperOS-System-Optimisation
-Taking you through the steps on how to turn off MIUI/HyperOS System Optimisation OFF
+Taking you through the steps on how to turn OFF MIUI/HyperOS System Optimisation
 
 # Pros & Cons: 
 ## Performance
 
 ### Pros:
 • Enhances system responsiveness and smoothness.
+
 • Improves RAM and CPU management for better multitasking.
  
 ### Cons:
